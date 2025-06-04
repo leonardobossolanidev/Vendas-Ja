@@ -36,3 +36,32 @@
 1️⃣ Clone o repositório:
 ```bash
 git clone https://github.com/leonardobossolanidev/Vendas-Ja.git
+2️⃣ Acesse a pasta do projeto:
+
+bash
+Copiar
+Editar
+cd Vendas-Ja
+3️⃣ Execute o projeto:
+
+bash
+Copiar
+Editar
+dotnet run
+🗂️ Estrutura do projeto
+Copiar
+Editar
+Vendas-Ja/
+├── Program.cs
+├── Vendas-Ja.csproj
+├── README.md
+└── obj/
+📜 Licença
+Este projeto está sob a licença MIT.
+🔗 Consulte o arquivo LICENSE para mais informações.
+
+👨‍💻 Autor
+Desenvolvido por Leonardo Bossolani Oliveira Mendes 🚀
+🔗 LinkedIn | 🐙 GitHub | 🌐 Portfólio
+
+
