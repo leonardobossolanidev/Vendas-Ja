@@ -1,52 +1,38 @@
-# 🚀 Vendas Fast
+# 🛒 Vendas Já
 
-![GitHub repo size](https://img.shields.io/github/repo-size/leonardobossolanidev/Vendas-Fast)
-![GitHub license](https://img.shields.io/github/license/leonardobossolanidev/Vendas-Fast)
-![GitHub last commit](https://img.shields.io/github/last-commit/leonardobossolanidev/Vendas-Fast)
-![GitHub issues](https://img.shields.io/github/issues/leonardobossolanidev/Vendas-Fast)
-
-> Sistema de gerenciamento de vendas simples, rápido e eficiente, desenvolvido para auxiliar micro e pequenas empresas no controle de vendas.
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge)
 
 ---
 
 ## 📑 Descrição
 
-O **Vendas Fast** é um sistema que tem como objetivo facilitar o gerenciamento de vendas, cadastros de clientes e produtos, proporcionando uma interface simples e intuitiva para o usuário.
+**Vendas Já** é um sistema de vendas simples, desenvolvido com o objetivo de praticar programação, lógica e controle de versão. Nele é possível realizar cadastro, atualização e controle de produtos e estoque.
 
 ---
 
-## 🔧 Funcionalidades
+## 🚀 Tecnologias utilizadas
 
-- 🛒 Cadastro de produtos
-- 👥 Cadastro de clientes
-- 📦 Controle de estoque
-- 💰 Realização de vendas
-- 📊 Relatórios simples de vendas
-- 🗑️ Remoção e edição de cadastros
+- 💻 C#
+- ⚙️ .NET 9
+- 📝 Visual Studio Code
+- 🗂️ Git & GitHub
 
 ---
 
-## 🛠️ Tecnologias
+## 📦 Funcionalidades
 
-- ✔️ C#
-- ✔️ .NET 9.0
-- ✔️ Visual Studio Code
-- ✔️ Git & GitHub
-
----
-
-## ⚙️ Pré-requisitos
-
-- [.NET SDK 9.0 ou superior](https://dotnet.microsoft.com/)
-- Git instalado
-- Editor de código (VSCode, Visual Studio ou outro de sua preferência)
+- ✅ Cadastro de produtos
+- ✅ Listagem de produtos
+- ✅ Atualização de informações dos produtos
+- ✅ Remoção de produtos
+- ✅ Controle de estoque
 
 ---
 
-## 🚀 Como executar o projeto
+## 🔥 Como rodar o projeto
 
-1. Clone o repositório:
-
+1️⃣ Clone o repositório:
 ```bash
-git clone https://github.com/leonardobossolanidev/Vendas-Fast.git
-
+git clone https://github.com/leonardobossolanidev/Vendas-Ja.git
